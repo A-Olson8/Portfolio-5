@@ -1,6 +1,6 @@
 # Portfolio-5/ MySQL Data Cleaning
 
-`
+```
 -- Since the table was imported from a CSV file, a primary key (id) should be created
 ALTER TABLE `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1`
 ADD ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
@@ -280,6 +280,8 @@ SET `End Date` = REPLACE(`End Date`, '/', '-')
 
 
 -- Display all employees who had income last year
+
+```
 
 Select * from `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1`
 Where `Last Years Salary` != '';
