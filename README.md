@@ -197,6 +197,9 @@ DROP COLUMN Address;
 
 -- The Sixth step is to clean the Position column
 
+
+```
+
 UPDATE `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1` SET `Position` = TRIM(`Position`);
 
 UPDATE `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1`
