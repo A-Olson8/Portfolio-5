@@ -1,0 +1,46 @@
+First Name,Last Name,Gender,Age,Phone Number,Address,Position,Last Years Salary,Last Years Commission,Start Date,End Date
+Elizabeth,Harper,F,31,704-608-3321,"138 s main st., Charlotte, N.C., 28209",Manager:},NaN,,12/28/2012,04-08-2022
+Adam,Sanders,male,36,7048120093,"7783 Hanover Drive, Charlotte, N.C., 28217",[Sales],,N/a,09-20-2017,09-20-2022
+Gregory,Wilson,Male,32,980-124-6659,"616 Washburn Lane, Bellmont, North Carolina, 28120",Assistant Manager,"$44,281","$16,288",02-07-2019,
+Joseph,Smith,M,28,704-212-5876,"432 Geneva Lane, Mt Holly, North Carolina, 28120",Sales,"$6,465","$1,344",3/22/2021,03-02-2023
+Jonathan,Moore,M,41,704-909-1543,"713 S 180th Street, Charlotte, N.C., 28203",Manager,"$58,267","$21,387",04-14-2022,
+Mallory    , Barlowe,female,44,839-076-4465,"517547 Columbia Drive, Tega Cay, South Carolina, 29732",Sales,,,5-24-2018,2/22/2022
+   Amber,West,Female,26,704-056-3797,"509 Spring St., Mt. Holly!!!!, N.C., 28120",Sales,"$25,981","$13,981",08-03-2019,
+Amy,               Katz,F,39,839-801-4218,"547 Katherine  Ct., Fort Mill,         South Carolina, 29715",Sales,N/a,N/a,07-05-2015,8/28/2018
+William,Witlock,M,37,704 707 8043,"610 Walnut Street, Arlington, North Carolina, 28120",Sales,"$20,652","$8,865",09-24-2022, 
+Ahmad,Ivory,Male,24,704-331-7179,"397 Walland Ln., Steele Creek, N.C., 28278",Assistant Manager,,,10-15-2014,01-30-2019
+Matthew,Graham,male,29,803-707-3145,"872 S 990th Street, Charlotte, N.C., 28205",Sales,"$2,408",$508,01-15-2021,01-15-2023
+Ashley,Green,Female,30,704-091-8655,"501 Waverly Way, Charlotte, N.C., 28210",Sales,NaN,,11-16-2013,05-19-2015
+Leo ,Szczebrzeszyn,M,36,704 843 6478,"401 Riverside Dr., Cramerton, North Carolina, 28056",Sales/,,,03-21-2016,12-01-2016
+Brian,Anderson,Male,34,704-121-4127,"2075 Garrison Road, Dixie - BerryHill, North Carolina, 28012",Sales,,,05-01-2020,11-18-2022
+          Brian,Atkinson,Male,28,704-556-0960,"900 Benny Dr.,   :Belmont, N.C, 28012",Sales,"$16,879","$1,756",04-12-2023,
+Amanda,Hotchkins,Female,29,839-440-1997,"267545 Oakland Drive, Tega Cay, South Carolina, 29732",Sales,"$19,420","$2,374",02-16-2023,
+Rodrigo,Remirez,Male,25,704-541-8714,"1477 Mattoon Street, Charlotte, N.C., 28216",Sales!!!,,,1-18-2013,10-05-2022
+Chloe ,Cox,Female,36,839-914-1614,"763476 Montego Drive, Tega Cay, S.C., 29732",Assistant Manager?,"$30,011","$1,938",4/6/2023,
+ Disha,Patel,F,34,704-087-1455,"711 26th Street,                      Charlotte, North Carolina, 28203",Sales,,,12-29-2013,07-22-2018
+Chris,Castle,Male,27,704-513-8413,"479 Andrews Dr., Cramerton, North Carolina, 28056",Sales,NaN,N/a,01-18-2014,10-02-2019
+Joe ,McIntosh,M,54,7041579934,"399 Wilson Street, Charlotte, N.C., 28214",Sales,,,07-27-2015,10/9/2017
+Samuel,Nowak,male,32,704-094-8322,"5090 Thorn Hill Lane, Woodford Green, North Carolina, 28078",Sales,,N/a,7/14/2013,04-20-2014
+  Alexandra ,Butler,F,40,980-555-6435,"642 Rush Road, McAdenville, N.C., 28056",Sales,"$6,284","$1,753",03-13-2020,02-09-2023
+Timothy,Lawton,Male,48,704-747-7785,"614 Ohio Street, Charlotte, N.C., 28202",Sales,"$35,095","$12,876",08-14-2021,12-10-2023
+Patrick,Fox,M,35,839-803-4123,"689 Rockland Ct., Rock Hill, South Carolina, 29732",Sales,,N/a,11/23/2014,05-09-2017
+Isla,Johnson,Female,43,704|068|1986,"450 Roxury Street, Charlotte, N.C., 28219",Sales,"$12,098","$4,279",07-02-2023,
+Blake,   Ackermann  ,Male,38,704-119-2041,"476 Dreary Lane, Belmont, North Carolina, 28012",Sales,"$21,112","$7,071",04-22-2019,06-30-2023
+Ziara,Jacobs,Female,28,704-301-9231,"1120 Carrington Drive, Woodford Green, North Carolina, 28078",Assistant Manager,"$42,646","$11,459",11-03-2022,
+Annabel,Decker ,F,28,7048837243,"440 S Church Street, Charlotte, North Carolina, 28203",Sales,,,09-14-2023,
+Buck,Blixington,Male,33,704|093|5786,"713 S 180th Street, Charlotte, N.C., 28203",Sales,"$24,597","$8,435",02-15-2018,09-07-2023
+Lidianne,Leblance,Female,36,980-312-4655,"606634 Kingston Place, Caldwell, N.C., 28031",Sales:/,,,1/16/2016,1/17/2020
+Faith,Perez,F,34,704-685-4227,"202 Wild Rose St., Cramerton, North Carolina, 28056",<Sales,,,12-13-2017,08-27-2019
+Dante,Hansen,M,26,704-927-8043,"1983 Liberty Ridge Lane, Huntersville, N.C.,       28078",Sales,"$11,863","$3,748",09-09-2019,4/1/2023
+Sage,        Larsen,F,31,704-511-7854,"1090 Kingsway Circle, Woodford Green, North Carolina, 28078",Sales:(,,NaN,05-12-2014,04-12-2014
+Mason,Berger,M,35,9807863312,"88 W Dunbar Street, Charlotte, North Carolina, 28203",Sales,,,6/11/2015,6/27/2018
+Angela,Berger,F,38,803-556-9076,"482411 PeachTree Lane, Tega Cay, South Carolina, 29732",Sales,,,03-02-2013,09-16-2018
+     Margaret,McBride,F,41,704-332-7364,"642 Wellshire Street, McAdenville, North Carolina, 28056",Assistant Manager,NaN,N/a,1/30/2019,09-29-2022
+Malik,Farooqi,F,24,704|857|2175,"300 Dixon Street, ""Charlotte"", North Carolina, 28212",Sales,,,05-29-2013,05-20-2015
+Naomi,Nicholson,Female,29,839-989-3643,"365 Wilmington Drive, Lake Wylie, South Carolina, 29710",Sales,,,10-23-2020,12-30-2021
+Christian,Payne,M,27,704-199-0483,"1775 N Streamside Dr, Huntersville, North Carolina    , 28078",^Sales,NaN,,11-21-2015,11-28-2019
+Cole,Powell,M,34,704-454-9677,"833 Waterbury Drive., Belmont, N.C, 28012",Sales,"$1,598",$312,12/16/2023,
+Jaziel,Cohen,male,39,704-347-5654,"713 S 180th Street, Charlotte, N.C., 28203",Sales,,N/a,2/2/2018,2/28/2020
+        Roberto,Gonzalez,Male,35,704-509-2378,"118 Gum Branch Road       , Woodford Green, North Carolina, 28078",Sales,"$1,677",$364,11-05-2021,01-15-2023
+Hank,Hart,Male,47,704-789-4893,"71 Mint Street, Charlotte, North Carolina., 28203",Sales,"$28,575","$9,923",4/30/2022,
+Hank,Hart,Male,47,704-789-4893,"71 Mint Street, Charlotte, North Carolina., 28203",Sales,"$28,575","$9,923",4/30/2022,
