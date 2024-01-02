@@ -3,7 +3,8 @@ The task is to clean the dataset below (the same as in Portfilio Project 4) in S
 
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/3749361d-b618-4fc6-86c7-eefdae94b97c)
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/a8e81eae-39cd-40f6-aa54-075b3f31a1cb)
-![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/fc5232c1-045f-43d2-9d50-58dc261586df)
+![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/437a4f47-a795-4d08-9b05-c7ba6654030f)
+
 
 
 -- Since the table was imported from a CSV file, a primary key (id) should be created
