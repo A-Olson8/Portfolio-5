@@ -1,4 +1,5 @@
 # Portfolio-5/ MySQL Data Cleaning
+The task is to clean the dataset below (the same as in Portfilio Project 4) in SQL
 
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/3749361d-b618-4fc6-86c7-eefdae94b97c)
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/a8e81eae-39cd-40f6-aa54-075b3f31a1cb)
@@ -310,5 +311,7 @@ Where `Last Years Salary` != '';
 
 
 ```
+The FInal Output
+
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/a4770d0c-3436-45fa-8c2a-acb00fc14114)
 
