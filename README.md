@@ -3,7 +3,8 @@ The task is to clean the dataset below (the same as in Portfilio Project 4) in S
 
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/3749361d-b618-4fc6-86c7-eefdae94b97c)
 ![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/a8e81eae-39cd-40f6-aa54-075b3f31a1cb)
-![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/a9e54c5f-cb16-4ebc-81b8-81d8dc99423d)
+![image](https://github.com/A-Olson8/Portfolio-5/assets/95314634/8a24939d-8ccc-4748-b91b-94b22179fa4d)
+
 
 
 
