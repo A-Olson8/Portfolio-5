@@ -71,7 +71,7 @@ SET `Gender` = CASE When `Gender` = 'male' THEN 'M'
 ```
 
 
--- The Fourth Next step is to make sure that the Phone Numbers column has uniform values (xxx-xxx-xxxx)
+-- The fourth Next step is to make sure that the Phone Numbers column has uniform values (xxx-xxx-xxxx)
 
 -- The 4 lines of code below strips the '-' and '|' characters so that we're left with (xxxxxxxxxx)
 
@@ -196,7 +196,7 @@ SET `Split Zip Code` = REPLACE(`Split Zip Code`, '"Charlotte""', '28212')
 
 
 
--- Lastly, delete the address column that is no longer needed
+-- Lastly, delete the Address column that is no longer needed
 
 ALTER TABLE `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1`
 DROP COLUMN Address;
@@ -204,7 +204,7 @@ DROP COLUMN Address;
 
 ```
 
--- The Sixth step is to clean the Position column
+-- The sixth step is to clean the Position column
 
 
 ```
@@ -245,7 +245,7 @@ SET `Position` = REPLACE(`Position`, '^', '')
 
 ```
 
--- Step Seven is to clean the Last Years Salary column
+-- Step seven is to clean the Last Years Salary column
 
 
 ```
@@ -269,7 +269,7 @@ SET `Last Years Salary` = REPLACE(`Last Years Salary`, '"', '')
 ```
 
 
--- Step Eight is to clean the Last Years Commission column
+-- Step eight is to clean the Last Years Commission column
 
 
 ```
