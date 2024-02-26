@@ -245,7 +245,7 @@ SET `Position` = REPLACE(`Position`, '^', '')
 
 ```
 
--- Step Seventh is to clean the Last Years Salary column
+-- Step Seven is to clean the Last Years Salary column
 
 
 ```
