@@ -55,7 +55,7 @@ UPDATE `SQL Data Cleaning Demo`.`DataCleaningPortfolioFile - Sheet1` SET `Last N
 
 ```
 
--- The third step is to make sure that the Gender column has values
+-- The third step is to make sure that the Gender column has uniform values
 
 
 ```
@@ -71,7 +71,7 @@ SET `Gender` = CASE When `Gender` = 'male' THEN 'M'
 ```
 
 
--- The fourth Next step is to make sure that the Phone Numbers column has uniform values (xxx-xxx-xxxx)
+-- The fourth step is to make sure that the Phone Numbers column has uniform values (xxx-xxx-xxxx)
 
 -- The 4 lines of code below strips the '-' and '|' characters so that we're left with (xxxxxxxxxx)
 
